@@ -1,4 +1,4 @@
-package Problems;
+package BinaryTreeProblems;
 
 import java.util.LinkedList;
 import java.util.Queue;
