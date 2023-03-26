@@ -24,9 +24,9 @@ public class CalculateDepthOfAFullBinaryTreeFromPreorder {
 	
 	
 	
-	  // function to return max
-    // of left subtree height
-    // or right subtree height
+	// function to return max
+    	// of left subtree height
+    	// or right subtree height
 	public static int findDepthRecursive(String tree, int index)
 	{
 		if (index >= tree.length() || tree.charAt(index) == 'l')
